@@ -1,3 +1,7 @@
+body {
+    position: relative;
+}
+
 #header img {
     width: 80px;
 }
@@ -40,6 +44,15 @@
 .btn-platzi:hover {
     background-color: #82ad36;
     color: white;
+}
+
+#place-time {
+    background-color: #343a40;
+    color: white;
+}
+
+#place-time img {
+    max-width: 100%;
 }
 
 #footer{
